@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hero()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moving()
+comment3.params=
+comment3.target=void\ firecheck()
+comment3.text=public\ void\ fire(){\r\n\ \ \ \ \ \ \ \ Fire\ f\ \=\ new\ Fire(this);\r\n\ \ \ \ \ \ \ \ getWorld().addObject(f,\ getX(),getY()-20);\r\n\ \ \ \ \ \ \ \ firecheck();\r\n}
+comment4.params=
+comment4.target=void\ enemykilled()
+numComments=5
