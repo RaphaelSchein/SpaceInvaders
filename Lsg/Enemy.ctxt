@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Enemy()
+comment2.params=
+comment2.target=void\ bewegen()
+comment2.text=act()\r\n\ Das\ Objekt\ soll\ sich\ bewegen.\ Damit\ die\ Bewegung\ aber\ nicht\ zu\ schnell\ ist,\ wird\ eine\ k\u00FCnstliche\ \r\n\ Verz\u00F6gerung\ eingebaut.\ Diese\ funktioniert\ \u00FCber\ das\ Attribut\ counter.\ Bei\ jedem\ Aufruf\ von\ act\ wird\ \r\n\ dieser\ erh\u00F6ht.\ Bei\ jedem\ 40.\ Mal\ bewegt\ sich\ das\ Objekt.\r\n\ Nebenbei\ muss\ es\ nat\u00FCrlich\ st\u00E4ndig\ pr\u00FCfen,\ ob\ der\ Held\ verloren\ hat.\r\n
+comment3.params=
+comment3.target=boolean\ checkLoss()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
